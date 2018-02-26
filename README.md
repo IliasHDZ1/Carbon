@@ -1,8 +1,8 @@
 # Carbon
 An API Framework for Computercraft
 
-You can see that there is nothing yet.
-I will inplement stuff later on.
+You can see that there is some stuff.
+I will inplement more stuff later on.
 
 # Computercraft
 
